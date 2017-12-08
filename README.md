@@ -2,8 +2,8 @@
 Assigns Slidedecks randomly PowerpointKaraoke Players
 
 # Usage
-* Put the slidedecks into the `slidedecks` folder. Note: The filenames need to comply with the following nameing convention:
-  `<Creator_name>-<Identifier>.<File extention>`
+* Put the slidedecks into the `slidedecks` folder. Note: The filenames need to comply with the following naming convention:
+  `<Creator name>-<Identifier>.<File extention>`. `<Creator name>` and `<Identifier>` must not contain `-`!
 * Run `./powerpointshuffle.py` or `python powerpointshuffle.py`. This generates something along those lines:
 ```
 ### Initial Setting ###
