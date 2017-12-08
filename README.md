@@ -1,0 +1,2 @@
+# powerpointkaraoke_generator
+Assigns Slidedecks randomly PowerpointKaraoke Players
